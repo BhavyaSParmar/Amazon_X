@@ -1,5 +1,4 @@
-# Amazon X 
-## Redesigning Inspire for Authentic User Engagement
+# Amazon X - Redesigning Inspire for Authentic User Engagement
 
 ## Project Overview
 The **Amazon X** project focuses on redesigning Amazon's Inspire section to address its challenges of commission-driven reviews and low community engagement. The goal is to create a platform that fosters genuine user interactions while maintaining the core Amazon shopping experience.
